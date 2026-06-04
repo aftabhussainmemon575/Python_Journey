@@ -1,0 +1,6 @@
+a = int(input("First number\n"))
+b = int(input("second number\n"))
+print ("Sum of a and b is",a+b)
+print ("Difference of a and b is",a-b)
+print ("Product of a and b is",a*b)
+print ("Remainder when a is divided by b is",a%b)
