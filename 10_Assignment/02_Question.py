@@ -1,5 +1,4 @@
-# Q2. Take two numbers as input from the user and print their sum, difference,
-# product, and quotient.
+# Q2. Take two numbers as input from the user and print their sum, difference, product, and quotient.
 
 a = int(input("First number: "))
 b = int(input("Second number: "))

@@ -1,1 +1,1 @@
-print('AFTAB said, "Python is awesone!"\nThis is a new line.\nThe is a tab ->\t<- here')
+print('AFTAB said, "Python is awesome!"\nThis is a new line.\nThe is a tab ->\t<- here')
